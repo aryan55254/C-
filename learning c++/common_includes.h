@@ -1,3 +1,6 @@
+#ifndef COMMON_INCLUDES_H
+#define COMMON_INCLUDES_H
+
 #include <iostream>
 #include <string>
 #include <vector>
@@ -16,3 +19,4 @@
 #include <stack>
 #include <iterator>
 #include <deque>
+#endif 

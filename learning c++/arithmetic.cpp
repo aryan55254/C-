@@ -11,13 +11,16 @@ int main(){
     cout<<"choose your operations: 1 to add, 2 to subtract, 3 to multiply and 4 to divide"<<endl;
     cin>>z;
     if(z == 1){
-        cout<<x + y<<endl;
+        int a = x + y;
+        cout<< a <<endl;
     }
     else if (z == 2){
-        cout << x-y<<endl;
+        int b = x -y ;
+        cout << b <<endl;
     }
     else if (z == 3){
-        cout<<x*y<<endl;
+        int c = x*y;
+        cout<< c <<endl;
     }
     else if (z ==4) {
         if (y == 0) {
