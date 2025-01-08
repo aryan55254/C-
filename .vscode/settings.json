@@ -1,6 +1,8 @@
 {
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     },
-    "crackboard.sessionKey": "2c20c6280ada710421c6da6e9fb272aa51ee053deae9886aec4120375814100a"
+    "crackboard.sessionKey": "2c20c6280ada710421c6da6e9fb272aa51ee053deae9886aec4120375814100a",
+    "C_Cpp.errorSquiggles": "disabled"
 }
